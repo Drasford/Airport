@@ -1,0 +1,11 @@
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.exe
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.deps.json
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.runtimeconfig.json
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.runtimeconfig.dev.json
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.dll
+C:\Users\divanovski\source\repos\Airport\Airport\bin\Debug\netcoreapp3.1\Airport.pdb
+C:\Users\divanovski\source\repos\Airport\Airport\obj\Debug\netcoreapp3.1\Airport.csprojAssemblyReference.cache
+C:\Users\divanovski\source\repos\Airport\Airport\obj\Debug\netcoreapp3.1\Airport.AssemblyInfoInputs.cache
+C:\Users\divanovski\source\repos\Airport\Airport\obj\Debug\netcoreapp3.1\Airport.AssemblyInfo.cs
+C:\Users\divanovski\source\repos\Airport\Airport\obj\Debug\netcoreapp3.1\Airport.dll
+C:\Users\divanovski\source\repos\Airport\Airport\obj\Debug\netcoreapp3.1\Airport.pdb
